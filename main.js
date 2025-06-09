@@ -85,7 +85,7 @@ const Pokemon = [
     },
     {
         id: "15",
-        image: "./image/starmie fire red.svg",
+        image: "./image/Starmie-fire-red.svg",
         PokemonName: "starmie fire red",
         About: 'Starmie in FireRed the spinning enigma of the sea that baffles foes with its cosmic power. This Water/Psychic type moves like a living ruby, it’s a late game powerhouse that shreds through Team Rocket and the Elite Four alike. Starmie proves that the ocean’s depths hide the deadliest stars'
     },
